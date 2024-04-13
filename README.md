@@ -1,4 +1,4 @@
-![MasterHead](https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif)
+![Header]()
 <h1 align="center">Hi 👋, I'm Mohammed Sardar Saajit</h1>
 <h3 align="center">A passionate Epistemophile Student from India</h3>
 <img aline="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/cbc9657bee48efb7b507e5c3e891b179859e5c348728937944d3ce924f4eada0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313837363738312f73637265656e73686f74732f363136393534322f7765625f6368617261637465722e676966">
