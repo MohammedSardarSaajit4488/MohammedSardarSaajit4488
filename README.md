@@ -1,7 +1,7 @@
 ![Student](https://github.com/MohammedSardarSaajit4488/MohammedSardarSaajit4488/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Sardar Saajit</h1>
 <h3 align="center">A passionate Epistemophile Student from India</h3>
-<img aline="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/cbc9657bee48efb7b507e5c3e891b179859e5c348728937944d3ce924f4eada0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313837363738312f73637265656e73686f74732f363136393534322f7765625f6368617261637465722e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsardarsaajit4488&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsardarsaajit4488" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohammed sardar saajit" target="blank"><img src="https://img.shields.io/twitter/follow/mohammed sardar saajit?logo=twitter&style=for-the-badge" alt="mohammed sardar saajit" /></a> </p>
