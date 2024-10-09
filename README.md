@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning **Generative AI, Neural Networks** 🧠
 - 💬 Ask me about **DS, ML, AI, Neural Net**
 - 📫 How to reach me **saajitofficial4488@gmail.com**
-- 📄 Know about my experiences [Link to Experiences](https://lpuin-my.sharepoint.com/:b:/g/personal/mdsardar_lpu_in/EWGgO4vAV_xCnQz-PFKQqu8Basai3XgrZmEFZ_orV8TNPQ?e=J0BydZ)
+- 📄 Know about my experiences [Link to Experiences](https://drive.google.com/file/d/1NjstjFcjelLt0TmT8NaeMr0RdetcgcDf/view?usp=drive_link)
 - ⚡ Fun fact **My "BRAIN" is a Search Engine...**
 - 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/863c7f3c-0436-4929-87de-dabd6d0fb4dc/deploy-status)](https://app.netlify.com/sites/weather-app-1o1/deploys)
