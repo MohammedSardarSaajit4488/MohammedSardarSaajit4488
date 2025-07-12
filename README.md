@@ -1,4 +1,4 @@
-![Student](https://github.com/MohammedSardarSaajit4488/MohammedSardarSaajit4488/blob/main/Github%20Banner.png)
+![Student](https://github.com/MohammedSardarSaajit4488/MohammedSardarSaajit4488/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Sardar Saajit</h1>
 <h3 align="center">A passionate Epistemophile Student from India</h3>
 
