@@ -3,7 +3,7 @@
 <div align="center">
 
 # 🌟 هَذِهِ الرُّوحُ لِلَّهِ وَأَنَا أَعِيشُ لِأَبْرْمِجَ بِاسْمِهِ 🌟
-## 🚀 Passionate AI/ML Epistemophile from Hyderabad, India
+## 🚀 Passionate AI/ML Epistemophile from Andhra Pradesh Rjy, India
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MohammedSardarSaajit4488&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohammedSardarSaajit4488)
 
