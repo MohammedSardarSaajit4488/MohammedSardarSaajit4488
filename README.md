@@ -45,10 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedSardarSaajit4488&theme=radical&hide_border=true" width="38%" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=MohammedSardarSaajit4488&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
