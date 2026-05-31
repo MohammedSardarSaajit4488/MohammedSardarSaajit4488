@@ -1,5 +1,3 @@
-![Student](https://github.com/MohammedSardarSaajit4488/MohammedSardarSaajit4488/blob/main/Banner.png)
-
 <div align="center">
 
 # 🌟 هَذِهِ الرُّوحُ لِلَّهِ وَأَنَا أَعِيشُ لِأَبْرْمِجَ بِاسْمِهِ 🌟
