@@ -15,6 +15,6 @@ I specialize in building end-to-end applications that bridge the gap between mac
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/mohammedsardarsaajit) • [X (Twitter)](https://x.com/SaajitSardar) • [Email](mailto:saajitofficial4488@gmail.com) • [Resume](https://drive.google.com/file/d/1V_77EeBo4C4oBicIGR5PgNQhT7BycBGI/view?usp=sharing)
+[LinkedIn](https://linkedin.com/in/mohammedsardarsaajit) • [X (Twitter)](https://x.com/SaajitSardar) • [Email](mailto:saajitofficial4488@gmail.com) • [Resume]([https://drive.google.com/file/d/1V_77EeBo4C4oBicIGR5PgNQhT7BycBGI/view?usp=sharing](https://drive.google.com/file/d/1sf3s23zSduHAeVSAP3bc_7JtoLI6K1cF/view?usp=sharing))
 
 ---
